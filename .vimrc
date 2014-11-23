@@ -7,6 +7,7 @@ autocmd VimEnter * if argc() == 0 && !exists("s:std_in") | NERDTree | endif
 
 syntax enable
 set background=dark
-colorscheme solarized
 set number
 let NERDTreeShowHidden=1
+let g:solarized_termcolors=256
+colorscheme solarized
