@@ -6,6 +6,8 @@ filetype plugin indent on
 let g:nerdtree_tabs_open_on_console_startup=1
 let g:airline_powerline_fonts=1
 
+let g:jsx_ext_required=0
+
 set laststatus=2 " Always display the statusline in all windows
 set showtabline=2 " Always display the tabline, even if there is only one tab
 set noshowmode " Hide the default mode text (e.g. -- INSERT -- below the statusline)

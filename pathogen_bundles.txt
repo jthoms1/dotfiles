@@ -15,3 +15,4 @@ https://github.com/tpope/vim-markdown
 https://github.com/jistr/vim-nerdtree-tabs
 https://github.com/moll/vim-node
 https://github.com/anyakichi/vim-surround
+https://github.com/mxw/vim-jsx.git
