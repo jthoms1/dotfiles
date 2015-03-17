@@ -2,7 +2,9 @@ https://github.com/kien/ctrlp.vim
 https://github.com/editorconfig/editorconfig-vim
 https://github.com/scrooloose/nerdtree
 https://github.com/scrooloose/syntastic
+https://github.com/tomtom/tlib_vim
 https://github.com/edkolev/tmuxline.vim
+https://github.com/MarcWeber/vim-addon-mw-utils
 https://github.com/bling/vim-airline
 https://github.com/altercation/vim-colors-solarized
 https://github.com/tpope/vim-fugitive
@@ -10,9 +12,12 @@ https://github.com/airblade/vim-gitgutter
 https://github.com/Valloric/vim-indent-guides
 https://github.com/statianzo/vim-jade
 https://github.com/pangloss/vim-javascript
+https://github.com/mxw/vim-jsx
 https://github.com/groenewege/vim-less
 https://github.com/tpope/vim-markdown
 https://github.com/jistr/vim-nerdtree-tabs
 https://github.com/moll/vim-node
+https://github.com/justinj/vim-react-snippets
+https://github.com/garbas/vim-snipmate
 https://github.com/anyakichi/vim-surround
-https://github.com/mxw/vim-jsx.git
+https://github.com/Valloric/YouCompleteMe
